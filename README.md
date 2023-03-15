@@ -27,8 +27,8 @@
 <div align = center>
 
 # Application UI
-<img width="20%" src="images/1.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp; <img width="20%" src="images/2.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;  <img width="20%" src="images/3.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <img width="20%" src="images/4.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; 
-<br><br><img width="20%" src="images/5.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp;  <img width="20%" src="images/6.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;  <img width="20%" src="images/7.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <img width="20%" src="images/8.png" alt="UTKARSH DWIVEDI"><br><br><img width="20%" src="images/9.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp;  <img width="20%" src="images/10.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;  <img width="20%" src="images/11.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <img width="20%" src="images/12.png" alt="UTKARSH DWIVEDI"> <br><br><img width="20%" src="images/13.png" alt="UTKARSH DWIVEDI"> 
+<img width="30%" src="images/1.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp; <img width="30%" src="images/2.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;  <img width="30%" src="images/3.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <br><br> <img width="30%" src="images/4.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; 
+<img width="30%" src="images/5.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp;  <img width="30%" src="images/6.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp; <br><br>  <img width="30%" src="images/7.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <img width="30%" src="images/8.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;<img width="30%" src="images/9.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <br><br>  <img width="30%" src="images/10.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp;  <img width="30%" src="images/11.png" alt="UTKARSH DWIVEDI">  &nbsp; &nbsp; <img width="30%" src="images/12.png" alt="UTKARSH DWIVEDI">&nbsp; &nbsp; <br><br><img width="30%" src="images/13.png" alt="UTKARSH DWIVEDI"> &nbsp; &nbsp; <img width="30%" src="images/14.png" alt="UTKARSH DWIVEDI">
 
 
 <br>
